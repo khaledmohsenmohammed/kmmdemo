@@ -1,8 +1,47 @@
 {
   "posts": [
-    { "userId":1 ,"id": 1, "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit" ,"body":"body text text text text text text text text text text text 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "body text text text text text text text text text text text 1"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "qui est",
+      "body": "body text text text text text text text text text text text 2"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "molestias",
+      "body": "body text text text text text text text text text text text 3"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "title": "sun ttitle 4",
+      "body": "body text text text text text text text text text text text 4"
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "title": "ttitle 4",
+      "body": "body text text text text text text text text text text text 5"
+    },
+    {
+      "userId": 6,
+      "id": 6,
+      "title": "ttitle 6",
+      "body": "body text text text text text text text text text text text 6"
+    },
+    {
+      "userId": 7,
+      "id": 7,
+      "title": "ttitle 7",
+      "body": "body text text text text text text text text text text text 7"
+    }
   ],
   "comments": [
     {
