@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "posts": 
     [
       {
         "userId": 1,
@@ -43,7 +43,6 @@
         "title": "Post 7",
         "body": "Body for post 7"
       }
-    ]
   ],
   "comments": [
     {
